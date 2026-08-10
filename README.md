@@ -2,11 +2,11 @@
 
 Welcome to my Placement Preparation Notes repository!
 
-This repository contains my personal notes and practice materials for software engineering placements. I regularly update it with concepts, examples, and interview notes as I continue learning.
+This repository contains my personal notes and practice materials for software engineering placements. I regularly update it with concepts, examples, formulas, and interview notes as I continue learning.
 
 ## 📂 Repository Structure
 
-```
+```text
 Placement-Preparation-Notes
 │
 ├── DSA
@@ -34,21 +34,24 @@ Placement-Preparation-Notes
 ## 🚀 Current Progress
 
 - ✅ Started documenting **Data Structures & Algorithms (DSA)** concepts.
-- 📖 Notes include definitions, syntax, examples, and important interview points.
+- ✅ Started **Aptitude** preparation with **Percentages**.
+- 📖 Notes include definitions, formulas, tricks, examples, and important interview points.
 - 🔄 More topics will be added and updated regularly.
 
 ## 🎯 Purpose
 
-- Prepare for coding interviews
+- Prepare for coding and aptitude rounds
 - Strengthen core computer science concepts
 - Maintain organized revision notes
 - Track continuous learning
+- Improve problem-solving skills
 
 ## 🌱 Learning Approach
 
 - Learn one topic at a time
 - Write concise and easy-to-understand notes
 - Include Java and Python examples where applicable
+- Note down important aptitude formulas and tricks
 - Revise concepts regularly
 
 ---
