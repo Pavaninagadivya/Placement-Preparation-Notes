@@ -37,6 +37,7 @@ Placement-Preparation-Notes
 - ✅ Started **Aptitude** preparation with **Percentages**.
 - 📖 Notes include definitions, formulas, tricks, examples, and important interview points.
 - 🔄 More topics will be added and updated regularly.
+- going to prepare for mock interviews
 
 ## 🎯 Purpose
 
